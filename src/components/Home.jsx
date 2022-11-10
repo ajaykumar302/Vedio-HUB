@@ -93,7 +93,7 @@ const MyCarousel = () => (
 
     <Box w="full" h={'100vh'}>
       <Image src={img3} h="full" w={'full'} objectFit={'cover'} />
-      <Heading bgColor={'whiteAlpha.600'} color={'black'} {...headingOptions}>
+      <Heading bgColor={'whiteAlpha.500'} color={'black'} {...headingOptions}>
         Gaming on Console
       </Heading>
     </Box>
